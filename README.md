@@ -2,6 +2,8 @@
 
 A tech enthusiast with a strong interest in Data Analysis, Machine Learning, and Web Development.
 
+- Skilled in Data Analysis and Machine Learning with R, Python, and MATLAB. 
+- Experienced in teamwork and collaborative projects.
 - 🌱 I’m currently learning Web Development.
 
 <!--
