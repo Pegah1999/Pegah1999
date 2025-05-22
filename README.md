@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+A tech enthusiast with a strong interest in Data Analysis, Machine Learning, and Web Development.
+
 - 🌱 I’m currently learning Web Development.
 
 <!--
