@@ -5,7 +5,7 @@ A tech enthusiast with a strong interest in Data Analysis, Machine Learning, and
 - Skilled in Data Analysis and Machine Learning with R, Python, and MATLAB. 
 - Experienced in teamwork and collaborative projects.
 - 🌱 I’m currently learning Web Development.
-- 📫 How to reach me: pegahpl17@gmail.com
+- 📫 How to reach me: pegahpl13@gmail.com
 
 <!--
 **Pegah1999/Pegah1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
