@@ -1,12 +1,11 @@
 # Hi there 👋
 ## My name is Pegah Palizban
-### Front-end Developer | Data Analyst
 
 A tech enthusiast with a strong interest in Data Analysis, Machine Learning, and Web Development.
 - Skilled in Data Analysis and Machine Learning with R, Python, and MATLAB. 
 - Experienced in teamwork and collaborative projects.
-- 🌱 I’m currently learning Web Development.
-- 📫 How to reach me: pegahpl13@gmail.com
+- 🌱 I’m currently student in Data Science program.
+- 📫 How to reach me: pegahpl17@gmail.com
 - Check out my LinkedIn page: https://www.linkedin.com/in/pegahpalizban/
 
 <!--
